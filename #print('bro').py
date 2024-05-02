@@ -1,19 +1,3 @@
-#print('bro')
-
-#print('Hello world')
-#print("Hello world")
-
-#print("""Hello sherak 
-#im your friend 
-#ok you are crazy""")
-#practice python !
-
-
-
-#print("I am Iron man \n" + "I am nigaa " + "I am popy" * 10#0)
-#print("Hello ewolrklfsdf")           
-#input("Whats is your name?")
-#print("Hello.............,thank you so much to coming")
 
 print("Welcome to my coffee shop !!!!!")
 name = input("What's your name? ")# the information...
